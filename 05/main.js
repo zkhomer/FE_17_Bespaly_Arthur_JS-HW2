@@ -4,3 +4,5 @@ var printof = prompt("на сколько хотите поделить")
 var resultat = print1 / printof
 var res2 = print2 / printof
 alert("Число 1 =" + Math.floor(resultat) + " " + "Число 2 =" + Math.floor(res2))
+/*
+asd*/
