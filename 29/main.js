@@ -10,3 +10,4 @@ if (question == "10w") {
 if (question == "10m") {
     alert((parseFloat(question)) * 720 * 3600)
 }
+//
